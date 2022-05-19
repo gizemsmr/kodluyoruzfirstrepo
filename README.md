@@ -27,6 +27,5 @@ code .
 Pull requests are accepted. For major changes, please open a thread to discuss what you want to change first.
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
